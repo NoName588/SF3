@@ -351,6 +351,8 @@
 "Assets/AudioSpectrum.cs"
 "Assets/AudioSyn.cs"
 "Assets/AudioSyncer.cs"
+"Assets/Orbir.cs"
+"Assets/Orbiting.cs"
 "Assets/Pernil.cs"
 -langversion:9.0
 
